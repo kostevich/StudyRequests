@@ -2,7 +2,7 @@
 **StudyRequests** – учебный проект использующий [requests](https://github.com/psf/requests?ysclid=lpz9y7goms697626558), представляющий собой ознакомление с основными функциями requests.
 
 # Порядок установки и использования
-1. Загрузить репозиторий. Распаковать. (Если релиза нет)
+1. Загрузить репозиторий. Распаковать. 
 2. Установить [Python](https://www.python.org/downloads/) версии не старше 3.11. Рекомендуется добавить в PATH.
 3. В среду исполнения установить следующие пакеты: [dublib](https://github.com/DUB1401/dublib), [requests](https://github.com/psf/requests?ysclid=lpz9y7goms697626558). 
 ```
